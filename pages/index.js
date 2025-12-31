@@ -1,5 +1,5 @@
 function Home() {
-  return <p>Vamos pra cima!</p>;
+  return <p>Jheziree, eu te amo! Se você me ama, da uma rebolada lentinha!</p>;
 }
 
 function teste() {
