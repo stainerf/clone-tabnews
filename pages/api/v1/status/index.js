@@ -22,7 +22,7 @@ async function status(request, response) {
       database: {
         version: versionDB.rows[0].server_version,
         max_connections: maxConnectionsValue,
-        used_connections: openedConnectionsValue,
+        opened_connections: openedConnectionsValue,
       },
     },
   });
